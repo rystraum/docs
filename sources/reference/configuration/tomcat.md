@@ -1,4 +1,4 @@
-# Gluu Sever Tomcat Configuration
+# Gluu Server Tomcat Configuration
 
 Below is the server.xml template file we use for Gluu Community
 
