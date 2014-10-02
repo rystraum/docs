@@ -11,6 +11,8 @@ deployment, many oxAuth servers are needed versus a few oxTrust instances.
 
 ## oxTrust.properties
 
+This file can be found under chrooted /opt/tomcat/conf (as of GLUU-1.0.1-CE).
+
  * __applianceInum__ 
 
  * __orgInum__ 
@@ -130,7 +132,7 @@ be deleted to trigger restart of appliance services.
 
 ## oxTrustLdap.properties
 
-These are the properties oxTrust uses to connect to LDAP
+These are the properties oxTrust uses to connect to LDAP. This file can be found under chrooted /opt/tomcat/conf (as of GLUU-1.0.1-CE).
 
  * __bindDN__ 
 

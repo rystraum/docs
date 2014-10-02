@@ -2,7 +2,7 @@
 
 ## oxauth-ldap.properties
 
-These are the properties oxTrust uses to connect to LDAP
+These are the properties oxTrust uses to connect to LDAP. This file can be found under chrooted /opt/tomcat/conf (as of GLUU-1.0.1-CE).
 
  * __bindDN__
 
@@ -16,6 +16,8 @@ These are the properties oxTrust uses to connect to LDAP
 
 
 ## oxauth-config.xml
+
+This file can be found under chrooted /opt/tomcat/conf (as of GLUU-1.0.1-CE).
 
     <?xml version="1.0" encoding="UTF-8"?>
     <configuration>
